@@ -1,5 +1,6 @@
 <?php
-require 'vendor/autoload.php';
+header('Content-Type: text/plain');
+require '../vendor/autoload.php';
 use CowSay\Cow;
 
 $bessie = new Cow('Hello, Farm!');

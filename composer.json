@@ -2,7 +2,7 @@
     "name": "antonin/composer3",
     "autoload": {
         "psr-4": {
-            "Antonin\\Composer3\\": "src/"
+            "CowSay\\": "src/"
         }
     },
     "authors": [
