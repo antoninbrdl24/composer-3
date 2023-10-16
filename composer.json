@@ -1,0 +1,17 @@
+{
+    "name": "antonin/composer3",
+    "autoload": {
+        "psr-4": {
+            "Antonin\\Composer3\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "antoninbrdl24",
+            "email": "antonin.brondel24@gmail.com"
+        }
+    ],
+    "require": {
+        "gipetto/cowsay": "*"
+    }
+}
